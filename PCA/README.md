@@ -9,4 +9,4 @@ The mathematical foundations to derive Principal Component Analysis (PCA), a fun
   - File Name - projection.ipnyb
   
 - 4) PCA
-  - File Name - 
+  - File Name - PCA.ipnyb
